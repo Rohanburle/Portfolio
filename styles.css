@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@100;200&family=Genos:ital,wght@1,800&family=Heebo:wght@100&family=Quicksand:wght@300;400&family=Work+Sans:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@100;200&family=Genos:ital,wght@1,800&family=Heebo:wght@100&family=Inter:wght@700&family=Quicksand:wght@300;400&family=Work+Sans:wght@100&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+}
+body{ background: rgb(60,61,113);
+background: linear-gradient(0deg, rgba(60,61,113,1) 6%, rgba(40,40,96,1) 25%, rgba(49,29,77,1) 35%, rgba(68,5,34,1) 100%);
+}
+.head{
+	text-align: center;
+	font-size: 70px;
+	margin: 20px;
+	padding: 0px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
+.tabs{
+	margin: 70px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding: 10px;
+}
+.tabs li{
+	display: inline;
+	padding: 50px;
+	font-size: 30px;
+	color: white;
+	font-family: 'Work Sans', sans-serif;
+	text-decoration: none;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+.image{
+	padding: 10px;
+	margin: 10px;
+
+}
+.image img{
+	height: 500px;
+	width: 700px;
+/*	opacity: 50%;*/
+	float: right;
+}
+.image p{
+	font-size: 70px;
+	color: white;
+	padding-left: 80px;
+	padding-top: 70px;
+	font-family: 'Quicksand', sans-serif;
+    text-shadow: 2px 2px 2px #000;
+}
+.connect{
+	display: flex;
+	justify-content: center;
+	margin-left: 50%;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 60px;
+	color: white;
+	padding-top: 150px;
+}
+.linksss{
+    display: flex;
+	justify-content: center;
+	margin-left: 0%;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 30px;
+	color: white;
+	padding-top: 150px;
+}
+.linkedin{
+    display: flex;
+	justify-content: center;
+	margin-left: 0%;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 30px;
+	color: white;
+	padding-top: 30px;
+}
+.mail{
+    display: flex;
+	justify-content: center;
+	margin-left: 0%;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 30px;
+	color: white;
+	padding-top: 30px;
+	margin-bottom: 100px;
+}
+
+
+
+
+
